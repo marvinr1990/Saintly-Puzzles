@@ -7,7 +7,7 @@ A Catholic-themed sliding tile puzzle game built for a game jam. Restore sacred 
 - **11 sacred images** — Saints, Our Lady, and Christ, each with a unique icon to restore
 - **3 difficulty levels** — Easy (3x3), Medium (4x4), and Hard (5x5)
 - **Timer options** — Play at your own pace, race a stopwatch, or beat the countdown
-- **Learn as you play** — Each completed puzzle reveals a short biography, a quote, and a traditional prayer (intercession prayers for saints, the Hail Mary for Our Lady)
+- **Learn as you play** — Browse short biographies when selecting a puzzle; completing one reveals a quote and a traditional prayer (intercession prayers for saints, the Hail Mary for Our Lady)
 - **Reverent design** — Dark theme with a stained glass background, warm gold accents, and serif typography
 
 ## Puzzles
@@ -54,8 +54,6 @@ Open a terminal and run:
 git clone https://github.com/marvinr1990/saintly-puzzles.git
 cd saintly-puzzles
 ```
-
-> **Note:** Replace `YOUR_USERNAME` with the actual GitHub username or organization once the repo is published.
 
 ### 3. Install Dependencies & Run
 
