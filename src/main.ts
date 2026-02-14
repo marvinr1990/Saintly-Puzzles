@@ -271,7 +271,6 @@ type TimerMode = 'none' | 'stopwatch' | 'countdown';
           <div class="message-inner">
             <h2 class="message-title">${payload.name}</h2>
             ${timeMsg}
-            <p class="message-about">${payload.about}</p>
             <blockquote class="message-quote">${payload.quote}</blockquote>
             ${payload.prayer ? `<div class="message-prayer"><strong>Prayer</strong><p>${payload.prayer}</p></div>` : ''}
             <div class="message-actions">
